@@ -22,7 +22,7 @@ Analyze the Uber Fares dataset to uncover insights into fare distribution, time-
 ## 📁 Project Structure
 
 ├── uber_cleaned.csv # Cleaned dataset with engineered features
-├── uber_dashboard.pbix # Power BI dashboard file
+├── uber_dashboard.pbix # Power BI dashboard file you can find it here: https://drive.google.com/file/d/1xC9eWAsI-SPftNqsP4dxUCTN-p9_lu7f/view?usp=sharing
 ├── screenshots/ # Screenshots of the workflow and dashboard
 │ ├── data_loading.png
 │ ├── feature_engineering.png
