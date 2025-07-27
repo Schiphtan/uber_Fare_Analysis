@@ -13,7 +13,7 @@ Analyze the Uber Fares dataset to uncover insights into fare distribution, time-
 
 ## 🧰 Tools Used
 
-- 🐍 **Python (Pandas)** – for data cleaning and feature engineering
+- 🐍 **Python (Pandas) Using Google Colab** – for data cleaning and feature engineering
 - 📊 **Power BI Desktop** – for interactive dashboard creation
 - 🗂 **GitHub** – to store and document project files
 
