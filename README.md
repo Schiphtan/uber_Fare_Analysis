@@ -75,17 +75,3 @@ The Power BI dashboard includes:
 
 ---
 
-## 👨‍🏫 Instructor
-
-- Eric Maniraguha – *INSY 8413: Introduction to Big Data Analytics*  
-📧 [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ericmaniraguha/)
-
----
-
-## 📬 Submission
-
-📅 **Deadline:** Friday, July 25th at 5:00 PM  
-📤 Email the GitHub repo link to: [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw)
-
----
